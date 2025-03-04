@@ -51,7 +51,7 @@ CREATE TABLE booked_users (
 
 1. Clona el repositorio:
    ```sh
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+   git clone https://github.com/marsil1990/Agenda.git
    cd project-schedule
    ```
 2. Instala las dependencias del backend:
